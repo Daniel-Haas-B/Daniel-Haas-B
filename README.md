@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+**Status:**
+
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Haas-B&theme=radical) [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Daniel-Haas-B&theme=radical)](https://github.com/Daniel-Haas-B/github-readme-stats)
