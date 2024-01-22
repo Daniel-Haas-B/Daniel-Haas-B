@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my Master's thesis: Deep Learning Methods for Quantum Many-body Problems
 - 📖 I'm also a teaching assistant for the course Computational Physics II at the University of Oslo
-- ⚡ I`m also working on building an ML pipeline to automatically annotate and segment thin cardiac valves in a collab @ Simula Research Laboratory
+- ⚡ On the side I'm working on building an ML pipeline to automatically annotate and segment thin cardiac valves in a collab @ Simula Research Laboratory
 
 
 - 📫 How to reach me: shoot an email to danihaa@uio.no
