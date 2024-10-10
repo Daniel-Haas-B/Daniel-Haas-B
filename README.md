@@ -14,13 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on my Master's thesis: Deep Learning Methods for Quantum Many-body Problems
-- 📖 I'm also a teaching assistant for the course Computational Physics II at the University of Oslo
-- ⚡ On the side I'm working on building an ML pipeline to automatically annotate and segment thin cardiac valves in a collab @ Simula Research Laboratory
+- I have a master's degree in computational physics by the University of Oslo. The topic of my thesis was machine learning methods for quantum many-body problems.
+- I work as an AI Engineer at 3D-Components, where I develop machine learning models and software solutions for robotic metal 3D printing.
+- I'm tryingo to get more involved in open-source projects since I align especially with Python open-source comunity. It’s a great way for me to learn, grow, and hopefully contribute to helping others along the way.
 
-
-- 📫 How to reach me: shoot an email to danihaa@uio.no
-- 🌱 I also have this slightly [outdated page](https://daniel-haas-b.github.io/) with some work and facts about me!
+- 📫 How to reach me: shoot an email to danielhaas.lima@gmail.com
+- I also have this slightly [outdated page](https://daniel-haas-b.github.io/) with some work and facts about me!
 
 **Status:**
 
