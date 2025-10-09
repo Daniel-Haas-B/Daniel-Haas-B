@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 - I'm trying to get more involved in open-source projects since I align especially with Python open-source comunity. It’s a great way for me to learn, grow, and hopefully contribute to helping others along the way.
 
 - 📫 How to reach me: shoot an email to danielhaas.lima@gmail.com
-- I also have this slightly [outdated page](https://daniel-haas-b.github.io/) with some work and facts about me!
 
 **Status:**
 
