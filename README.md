@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 **Status:**
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Haas-B&theme=aura) [![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=Daniel-Haas-B&theme=aura)](https://github.com/Daniel-Haas-B/github-readme-stats)
+![](https://raw.githubusercontent.com/Daniel-Haas-B/Daniel-Haas-B/master/profile-summary-card-output/aura/0-profile-details.svg)
